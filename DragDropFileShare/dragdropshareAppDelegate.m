@@ -71,6 +71,8 @@
     OBDragDropManager *manager = [OBDragDropManager sharedManager];
     [manager prepareOverlayWindowUsingMainWindow:self.window];
     
+    
+    //added testing comments
     return YES;
 }
 
