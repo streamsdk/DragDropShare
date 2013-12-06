@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0699F083-C010-4FED-A645-63BE6E7ED716</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DragDropFileShare</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3DF3C4EC-4B99-429B-91EE-FD892744926A</key>
+		<string>https://github.com/edwardyangey/DragDropFileShare.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DragDropFileShare.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3DF3C4EC-4B99-429B-91EE-FD892744926A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/edwardyangey/DragDropFileShare.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3DF3C4EC-4B99-429B-91EE-FD892744926A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3DF3C4EC-4B99-429B-91EE-FD892744926A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DragDropFileShare</string>
+		</dict>
+	</array>
+</dict>
+</plist>
